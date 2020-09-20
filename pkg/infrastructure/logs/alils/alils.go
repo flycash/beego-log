@@ -9,7 +9,7 @@ import (
 	"github.com/gogo/protobuf/proto"
 	"github.com/pkg/errors"
 
-	"github.com/astaxie/beego/pkg/infrastructure/logs"
+	"github.com/flycash/beego-log/pkg/infrastructure/logs"
 )
 
 const (

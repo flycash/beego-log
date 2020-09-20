@@ -1,4 +1,4 @@
-module github.com/astaxie/beego
+module github.com/flycash/beego-log
 
 go 1.14
 
